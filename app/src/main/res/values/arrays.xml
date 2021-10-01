@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--Array for Language-->
+    <string-array name="settings_Language_labels">
+        <item>@string/settings_English_label_lang</item>
+        <item>@string/settings_Arabic_label_lang</item>
+        <item>@string/settings_German_label_lang</item>
+        <item>@string/settings_Spanish_label_lang</item>
+        <item>@string/settings_French_label_lang</item>
+        <item>@string/settings_Hindi_label_lang</item>
+        <item>@string/settings_Japanese_label_lang</item>
+        <item>@string/settings_Portuguese_label_lang</item>
+        <item>@string/settings_Russian_label_lang</item>
+
+    </string-array>
+
+    <string-array name="settings_Language_values">
+        <item>@string/settings_English_value_lang</item>
+        <item>@string/settings_Arabic_value_lang</item>
+        <item>@string/settings_German_value_lang</item>
+        <item>@string/settings_Spanish_value_lang</item>
+        <item>@string/settings_French_value_lang</item>
+        <item>@string/settings_Hindi_value_lang</item>
+        <item>@string/settings_Japanese_value_lang</item>
+        <item>@string/settings_Portuguese_value_lang</item>
+        <item>@string/settings_Russian_value_lang</item>
+    </string-array>
+
+<!--    Array for country-->
+    <string-array name="settings_Country_labels">
+        <item>@string/settings_any_label_country</item>
+        <item>@string/settings_United_States_label_country</item>
+        <item>@string/settings_Israel_label_country</item>
+        <item>@string/settings_Germany_label_country</item>
+        <item>@string/settings_Spain_label_country</item>
+        <item>@string/settings_France_label_country</item>
+        <item>@string/settings_India_label_country</item>
+        <item>@string/settings_Japan_label_country</item>
+        <item>@string/settings_Portugal_label_country</item>
+        <item>@string/settings_Russian_Federation_label_country</item>
+
+    </string-array>
+
+    <string-array name="settings_Country_values">
+        <item>@string/settings_any_value_country</item>
+        <item>@string/settings_United_States_value_country</item>
+        <item>@string/settings_Israel_value_country</item>
+        <item>@string/settings_Germany_value_country</item>
+        <item>@string/settings_Spain_value_country</item>
+        <item>@string/settings_France_value_country</item>
+        <item>@string/settings_India_value_country</item>
+        <item>@string/settings_Japan_value_country</item>
+        <item>@string/settings_Portugal_value_country</item>
+        <item>@string/settings_Russian_Federation_value_country</item>
+    </string-array>
+</resources>

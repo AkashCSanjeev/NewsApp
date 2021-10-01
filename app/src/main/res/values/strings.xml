@@ -1,0 +1,93 @@
+<resources>
+    <!--    Activity Label -->
+    <string name="app_name">That\'s New</string>
+    <string name="settings">Settings</string>
+
+    <!--    Strings in Category adapter-->
+    <string name="world_title">World</string>
+    <string name="sports_title">Sports</string>
+    <string name="technology_title">Technology</string>
+    <string name="entertainment_title">Entertainment</string>
+    <string name="science_title">Science</string>
+    <string name="business_title">Business</string>
+    <string name="health_title">Health</string>
+
+    <!--    Strings in Fragments-->
+    <string name="no_internet">No Internet connection</string>
+    <string name="no_news">No News</string>
+
+    <!--    Strings in Setting-->
+    <string name="settings_min_item_key" translatable="false">min_item</string>
+    <string name="settings_min_item_default" translatable="false">10</string>
+
+    <!--   language settings-->
+    <string name="settings_Language_label">Language</string>
+    <string name="settings_Language_key" translatable="false">lang</string>
+    <string name="settings_Language_default" translatable="false">@string/settings_English_value_lang</string>
+
+
+    <string name="settings_English_label_lang">English</string>
+    <string name="settings_English_value_lang" translatable="false">en</string>
+
+    <string name="settings_Arabic_label_lang">Arabic</string>
+    <string name="settings_Arabic_value_lang" translatable="false">ar</string>
+
+    <string name="settings_German_label_lang">German</string>
+    <string name="settings_German_value_lang" translatable="false">de</string>
+
+    <string name="settings_Spanish_label_lang">Spanish</string>
+    <string name="settings_Spanish_value_lang" translatable="false">es</string>
+
+    <string name="settings_French_label_lang">French</string>
+    <string name="settings_French_value_lang" translatable="false">fr</string>
+
+    <string name="settings_Hindi_label_lang">Hindi</string>
+    <string name="settings_Hindi_value_lang" translatable="false">hi</string>
+
+    <string name="settings_Japanese_label_lang">Japanese</string>
+    <string name="settings_Japanese_value_lang" translatable="false">ja</string>
+
+    <string name="settings_Portuguese_label_lang">Portuguese</string>
+    <string name="settings_Portuguese_value_lang" translatable="false">pt</string>
+
+    <string name="settings_Russian_label_lang">Russian</string>
+    <string name="settings_Russian_value_lang" translatable="false">ru</string>
+
+    <!--     Country Settings-->
+    <string name="settings_Country_label">Country</string>
+    <string name="settings_Country_key" translatable="false">Country</string>
+    <string name="settings_Country_default" translatable="false">@string/settings_any_value_country</string>
+
+    <string name="settings_any_label_country">Any</string>
+    <string name="settings_any_value_country" translatable="false">Any</string>
+
+    <string name="settings_United_States_label_country">United States</string>
+    <string name="settings_United_States_value_country" translatable="false">us</string>
+
+    <string name="settings_Israel_label_country">Israel</string>
+    <string name="settings_Israel_value_country" translatable="false">il</string>
+
+    <string name="settings_Germany_label_country">Germany</string>
+    <string name="settings_Germany_value_country" translatable="false">de</string>
+
+    <string name="settings_Spain_label_country">Spain</string>
+    <string name="settings_Spain_value_country" translatable="false">es</string>
+
+    <string name="settings_France_label_country">France</string>
+    <string name="settings_France_value_country" translatable="false">fr</string>
+
+    <string name="settings_India_label_country">India</string>
+    <string name="settings_India_value_country" translatable="false">in</string>
+
+    <string name="settings_Japan_label_country">Japan</string>
+    <string name="settings_Japan_value_country" translatable="false">jp</string>
+
+    <string name="settings_Portugal_label_country">Portugal</string>
+    <string name="settings_Portugal_value_country" translatable="false">pt</string>
+
+    <string name="settings_Russian_Federation_label_country">Russian Federation</string>
+    <string name="settings_Russian_Federation_value_country" translatable="false">ru</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
