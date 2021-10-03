@@ -34,7 +34,7 @@ import java.util.List;
 public class BaseNewsFragment extends Fragment implements androidx.loader.app.LoaderManager.LoaderCallbacks<List<News>> {
 
 
-    public final String NEWS_URL = "https://gnews.io/api/v4/top-headlines?token=80dcb639d85b8525240cb09318e6cd21";
+    public final String NEWS_URL = "https://gnews.io/api/v4/top-headlines?token=[YOUR-TOKEN]";
     private CustomAdapter mAdapter;
     private TextView mEmptyStateTextView;
     private View mloadingIndicator;
