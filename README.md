@@ -9,4 +9,6 @@
 <img src="ScreenShots/Settings.jpg" width="200" title="Settings.jpg">
 
 #### Demo
-Check the video in [NewsApp/ScreenShots/Demo.mp4]
+Check the video in [NewsApp/ScreenShots/Demo.mp4]<br>
+  -> Swipe Refesh<br>
+  -> Settings demo
